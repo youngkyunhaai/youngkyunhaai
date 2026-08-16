@@ -30,3 +30,4 @@ Event aggregation for Toronto. Private repo.
 ## Stack
 
 TypeScript / React Native / Expo · Python · n8n · Claude API / agentic tooling · Docker
+
